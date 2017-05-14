@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string-array name="spin">
+        <item>CMs</item>
+    </string-array>
+
+    <string-array name="spin1">
+        <item>KiloGram</item>
+    </string-array>
+</resources>
